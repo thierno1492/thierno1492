@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-6297
-Fork on GitHub
-1107
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Thierno Diallo</h1>
 <h3 align="center">Full-stack web developer focused on the Frontend.</h3>
 
