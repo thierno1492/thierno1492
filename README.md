@@ -11,9 +11,10 @@
 
 - 🌱 I’m currently learning **Php,laravel javascript react vue**
 
-- 👯 I’m looking to collaborate on [Teachmanager](https://github.com/Broken-Lore/techManager)
+- 👯 I collaborated in  [Moods](https://github.com/Fataaa-mood/moods-app)
+- - 👯 I collaborated in  [Teachmanager](https://github.com/Broken-Lore/techManager)
 
-- 👯 I’m looking to collaborate on [ConsultingF5](https://github.com/Broken-Lore/ConsultingF5)
+- 👯 I collaborated in  [ConsultingF5](https://github.com/Broken-Lore/ConsultingF5)
 
 - 👨‍💻 All of my projects are available at [https://github.com/thierno1492?tab=repositories](https://github.com/thierno1492?tab=repositories)
 
