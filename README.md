@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thierno Diallo</h1>
-<h3 align="center">Full-stack web developer focused on the Frontend.</h3>
+<h3 align="center">Full-stack web developer focused on Frontend.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thierno1492&label=Profile%20views&color=0e75b6&style=flat" alt="thierno1492" /> </p>
 
@@ -12,7 +12,8 @@
 - 🌱 I’m currently learning **Php,laravel javascript react vue**
 
 - 👯 I collaborated in  [Moods](https://github.com/Fataaa-mood/moods-app)
-- - 👯 I collaborated in  [Teachmanager](https://github.com/Broken-Lore/techManager)
+
+- 👯 I collaborated in  [Teachmanager](https://github.com/Broken-Lore/techManager)
 
 - 👯 I collaborated in  [ConsultingF5](https://github.com/Broken-Lore/ConsultingF5)
 
