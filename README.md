@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thierno Diallo</h1>
-<h3 align="center">Full-stack web developer focused on Frontend.</h3>
+<h3 align="center">Full-stack web developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thierno1492&label=Profile%20views&color=0e75b6&style=flat" alt="thierno1492" /> </p>
 
